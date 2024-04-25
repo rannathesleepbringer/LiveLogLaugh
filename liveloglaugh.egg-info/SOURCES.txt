@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+liveloglaugh.egg-info/PKG-INFO
+liveloglaugh.egg-info/SOURCES.txt
+liveloglaugh.egg-info/dependency_links.txt
+liveloglaugh.egg-info/top_level.txt
